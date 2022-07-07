@@ -1,4 +1,5 @@
 # bmi_calculator_flutter
+It helps your to calculate their Body Mass Index to Live happy and healthy life. 
 
 A new Flutter project.
 
